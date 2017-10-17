@@ -10,10 +10,6 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Set;
 
-/**
- *
- * @author Chris
- */
 public class SimulationDriver {
 
     public static void main(String[] args) {
