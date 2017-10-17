@@ -1,4 +1,6 @@
 //Author: Christopher Kilian
+//Project #1 for CS 356
+//Cal Poly Pomona, Fall 2017
 package ivote.simulator;
 
 import java.util.ArrayList;
